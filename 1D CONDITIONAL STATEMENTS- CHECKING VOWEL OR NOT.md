@@ -1,4 +1,4 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Divisible by 9
 
 ## AIM  
 To write a Python program to read a number and check whether the number is divisible by 9 or not using  if else.
