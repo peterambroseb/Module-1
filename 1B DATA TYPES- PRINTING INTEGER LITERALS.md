@@ -1,29 +1,24 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Printing One Integer and One Float Value
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
-
+To write a python program to read one integer and float  value.
 ## ALGORITHM  
 1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+2. Initialize the integer  and float literals `10` and `3.14`.  
+3. Use the `print()` function to display the numbers  `10` and `3.14`.  
+4. Execute the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223060196
+# Name-Peter Ambrose B
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
-
+a=int(input())
+b=float(input())
+print(a,b)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/7932364a-96ba-4717-b630-7e87630ede05)
 
 ## RESULT
+The python program to read and print the complex number is successfully executed.
